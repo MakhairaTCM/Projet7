@@ -1,0 +1,21 @@
+.containerError{
+    display: flex;
+    flex-direction: column;
+    color: rgb(255,96,96);
+    align-items: center;
+
+    .errorNumber{
+        font-size: 300px;
+
+    }
+    .msgError{
+        font-size: 25px;
+
+
+    }
+    a{
+        text-decoration: none;
+        color: rgb(255,96,96);
+
+    }
+}

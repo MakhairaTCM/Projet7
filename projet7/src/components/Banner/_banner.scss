@@ -1,0 +1,17 @@
+section {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    
+    img{
+        width: 100%;
+    }
+    .bannerImg{
+        margin: auto;
+        border-radius: 25px;
+        width: 100%;
+    }
+}
